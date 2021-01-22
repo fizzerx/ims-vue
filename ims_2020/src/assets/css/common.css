@@ -1,0 +1,163 @@
+.warp {
+  margin: 0 24px 0px;
+  padding: 70px 0 20px;
+  position: relative;
+  overflow: hidden;
+}
+a,
+button {
+  text-decoration: none;
+  cursor: pointer;
+  outline: none;
+  vertical-align: middle;
+}
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.el-tabs__item {
+  font-size: 16px;
+}
+.el-table .el-table__header-wrapper th{
+  background: #fafafa;
+  color: rgba(0, 0, 0, 0.85);
+}
+.el-table--striped .el-table__body tr.el-table__row--striped td{
+  background: #fff;
+}
+.el-input__inner{
+  height: 36px;
+  line-height: 36px;
+}
+.el-tabs__nav-wrap::after{
+  border-bottom: 1px solid #E4E7ED;
+  height: initial;
+}
+.el-table td, .el-table th, .el-table .cell{
+  white-space: nowrap;
+}
+.xiasanjiao {
+  width: 0;
+  height: 0;
+  display: inline-block;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 11px solid #fff;
+}
+
+.shangsanjiao {
+  width: 0;
+  height: 0;
+  display: inline-block;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-bottom: 11px solid #fff;
+}
+
+.loginOut {
+  display: inline-block;
+  float: right;
+  margin-right: 15px;
+  padding-top: 20px;
+}
+
+.loginOut a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.icon-reny {
+  background: url(../images/reny.png) center no-repeat;
+  height: 16px;
+  width: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.user-nav {
+  position: absolute;
+  right: 15px;
+  background-color: #4b556c;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid #3d455e;
+  z-index: 1000;
+  width: auto;
+}
+
+.union-menu li a {
+  color: #fff;
+}
+
+.user-nav li {
+  line-height: 32px;
+  line-height: 2rem;
+  list-style: none;
+}
+
+.union-menu li {
+  display: inline-block;
+  padding: 0 8px;
+  border-right: 2px solid #fff;
+  cursor: pointer;
+}
+
+.union-menu li {
+  display: inline-block;
+  padding: 0 8px;
+  border-right: 2px solid #fff;
+  cursor: pointer;
+}
+
+.adm-union {
+  overflow: hidden;
+  padding-top: 15px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  width: 100%;
+  min-width: 1429px;
+}
+
+.adm-union,
+.headVersion {
+  font-size: 16px;
+  color: #fff;
+}
+
+.user-nav li a {
+  display: block;
+  padding: 0 10px;
+  color: #fff;
+  font-size: 16px;
+}
+
+.uploadingGroupTitleClass .el-dialog__header {
+  border-bottom: solid 1px rgba(0, 0, 0, 0.1);
+  margin: 0 2%;
+}
+
+.el-dialog__body{
+  max-height: 560px;
+  overflow-y: auto;
+  padding-bottom: 80px;
+}
+
+.footer_dialog{
+    text-align: right;
+    border-top: solid 1px rgba(0, 0, 0, 0.1);
+    margin: 30px 2% 0 2%;
+    padding: 10px 0;
+    position: absolute;
+    z-index: 9999;
+    bottom: 0;
+    left: 0;
+    width: 96%;
+    background: #fff;
+}
+
+.el-tabs .el-tabs__header .el-tabs__nav-wrap::after{
+  height: 1px;
+}

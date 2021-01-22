@@ -1,0 +1,21 @@
+{
+      "msg":"成功！",
+      "lableInfo":[
+          {
+              "lableName":"身份类型",
+              "lableClassId":"1000001",
+              "lableId":"L1000001"
+          },
+          {
+              "lableName":"身份证有效标识",
+              "lableClassId":"1000001",
+              "lableId":"L1000002"
+          },
+          {
+            "lableName":"身份证",
+            "lableClassId":"1000001",
+            "lableId":"L1000003"
+        }
+      ],
+      "respCode":"0"
+}

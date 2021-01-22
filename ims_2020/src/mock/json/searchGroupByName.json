@@ -1,0 +1,74 @@
+{
+  "msg": "成功！",
+  "lableInfo": [
+      {
+          "custGrpId": "1000020200717AA",
+          "custGrpSource": "1",
+          "custGrpScope": "108961",
+          "createTime": null,
+          "custGrpName": "定存优惠客群",
+          "executiveStatus": "Y",
+          "lastModifyTime": null,
+          "creater": "Ethan1",
+          "lastModifier": "Ethan01",
+          "lastModifyDate": "2020-08-01",
+          "createDate": "2020-07-01"
+      },
+      {
+          "custGrpId": "1000020200717AF",
+          "custGrpSource": "3",
+          "custGrpScope": "1012",
+          "createTime": null,
+          "custGrpName": "基金客群",
+          "executiveStatus": "F",
+          "lastModifyTime": null,
+          "creater": "Ethan6",
+          "lastModifier": "Ethan06",
+          "lastModifyDate": "2020-08-06",
+          "createDate": "2020-07-06"
+      },
+      {
+          "custGrpId": "1000020200717AG",
+          "custGrpSource": "1",
+          "custGrpScope": "2323",
+          "createTime": null,
+          "custGrpName": "沙和尚客群",
+          "executiveStatus": "Y",
+          "lastModifyTime": null,
+          "creater": "Ethan7",
+          "lastModifier": "Ethan07",
+          "lastModifyDate": "2020-08-07",
+          "createDate": "2020-07-07"
+      },
+      {
+          "custGrpId": "1000020200717AH",
+          "custGrpSource": "1",
+          "custGrpScope": "7889",
+          "createTime": null,
+          "custGrpName": "孙悟空客群",
+          "executiveStatus": "Y",
+          "lastModifyTime": null,
+          "creater": "Ethan8",
+          "lastModifier": "Ethan08",
+          "lastModifyDate": "2020-08-08",
+          "createDate": "2020-07-08"
+      },
+      {
+          "custGrpId": "1000020200717AI",
+          "custGrpSource": "1",
+          "custGrpScope": "123",
+          "createTime": null,
+          "custGrpName": "猪八戒客群",
+          "executiveStatus": "Y",
+          "lastModifyTime": null,
+          "creater": "Ethan9",
+          "lastModifier": "Ethan09",
+          "lastModifyDate": "2020-08-09",
+          "createDate": "2020-07-09"
+      }
+  ],
+  "count": 37,
+  "pageSize": 5,
+  "page": 1,
+  "respCode": "0"
+}
